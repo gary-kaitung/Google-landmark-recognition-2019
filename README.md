@@ -12,4 +12,4 @@ Downloading the dataset already took me 30 hours!
 Although the missing data is tiny compared 5M images, some landmark labels only appear once/twice for certain images.
 So, lots of work were put on cleaning the dataset, finding missing images and downloading the missing data
 
-The final score of the predictions gave me rank 100th among 178 teams
+The final score of the predictions gave me rank 100th among 281 teams
